@@ -11,9 +11,9 @@
   <a href="https://huggingface.co/datasets/openai/gsm8k"><img src="https://img.shields.io/badge/Benchmark-GSM8K-orange.svg" alt="GSM8K"></a>
 </p>
 <p align="center">
-  <a href="https://colab.research.google.com/drive/1jmdkB--GgxPotzz7MbNGxBjcxps6dgVx?usp=sharing"><img src="https://img.shields.io/badge/🦙_Llama_Quantization-Open_in_Colab-4c9e3f?style=flat" alt="Llama Quantization"></a>
-  <a href="https://colab.research.google.com/drive/1HFzsq9yOEv7fnuytqlsxtH8Mhaf2XB-t?usp=sharing"><img src="https://img.shields.io/badge/🌬️_Mistral_Quantization-Open_in_Colab-0070e0?style=flat" alt="Mistral Quantization"></a>
-  <a href="https://colab.research.google.com/drive/1HFzsq9yOEv7fnuytqlsxtH8Mhaf2XB-t?usp=sharing"><img src="https://img.shields.io/badge/🐒_LLM_Monkey_Pipline-Open_in_Colab-e18000?style=flat" alt="LLM Monkey Data Validation"></a>
+    <a href="https://colab.research.google.com/drive/1jmdkB--GgxPotzz7MbNGxBjcxps6dgVx?usp=sharing"><img src="https://img.shields.io/badge/LLM_Monkey_Pipline-Open_in_Colab-e18000?style=flat" alt="LLM Monkey Data Validation"></a>
+    <a href="https://colab.research.google.com/drive/1HFzsq9yOEv7fnuytqlsxtH8Mhaf2XB-t?usp=sharing"><img src="https://img.shields.io/badge/Mistral_Quantization-Open_in_Colab-0070e0?style=flat" alt="Mistral Quantization"></a>
+  <a href="https://colab.research.google.com/drive/1hzYIZ4uQ--aGVYLT_o8_TfLpGTDqnGgS?usp=sharing"><img src="https://img.shields.io/badge/Llama_Quantization-Open_in_Colab-4c9e3f?style=flat" alt="Llama Quantization"></a>
 </p>
 <p align="center">
   <a href="#what-it-is">What</a> •
